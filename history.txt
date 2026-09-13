@@ -1,0 +1,513 @@
+   24  git switch DiscountedSale/ADOGP-8
+   25  cd backend
+   26  git switch Favorites/ADOGP-12
+   27  git add . 
+   28  git commit -m 'пустой коммит'
+   29  git switch main
+   30  code .
+   31  cd backend
+   32  npm run dev
+   33  git switch DiscountedSale/ADOGP-8
+   34  git merge Favorites/ADOGP-12
+   35  code .
+   36  cd frontend
+   37  npm run dev
+   38  git add .
+   39  git commit -m 'Обьединила две ветки со спринта 2 и 3'
+   40  git switch main
+   41  npm run dev
+   42  git switch -c ProductDescription/ADOGP-14
+   43  npm run dev
+   44  code .
+   45  code .
+   46  npm run dev
+   47  git add .
+   48  git status
+   49  git status
+   50  git add .
+   51  git status
+   52  git commit -m 'сделала описания товаров не больше 300 символов'
+   53  git switch main
+   54  git pull origin ain
+   55  git pull origin main
+   56  cd backend
+   57  npm run dev
+   58  code .
+   59  npm run dev
+   60  code .
+   61  git pull origin main
+   62  code .
+   63  git branch -v
+   64  git switch ProductDescription/ADOGP-14
+   65  git push
+   66  code .
+   67  cd backend
+   68  npm run dev
+   69  git pull origin main
+   70  code .
+   71  git branch
+   72  git switch ProductDescription/ADOGP-14
+   73  git push
+   74  git push --set-upstream origin ProductDescription/ADOGP-14
+   75  git switch main
+   76  git swich -c ModalWindow/ADOPG-20
+   77  git switch -c ModalWindow/ADOPG-20
+   78  cd frontend
+   79  npm run dev
+   80  git add.
+   81  git add
+   82  git add .
+   83  git commit -m 'сделала скидки дня'
+   84  git switch main
+   85  npm run dev
+   86  clone https://github.com/Olhaj/Garden-shop.git
+   87  git clone https://github.com/Olhaj/Garden-shop.git
+   88  code .
+   89  git push
+   90  code .
+   91  git init
+   92  git add README.md
+   93  cd backend
+   94  cd backend
+   95  code .
+   96  code .
+   97  cd frontend
+   98  npm install
+   99  npm run dev
+  100  cd backend
+  101  npm install
+  102  npm run dev
+  103  code .
+  104  code .
+  105  cd frontend
+  106  npm run dev
+  107  code .
+  108  code .
+  109  code .
+  110  code .
+  111  code .
+  112  cd frontend
+  113  npm run dev
+  114  git add .
+  115  git commit -m 'неособые изминения'
+  116  git switch main
+  117  npm i
+  118  npm run dev
+  119  git add.
+  120  git status
+  121  git add .
+  122  git commit -m 'я добавила стили и исправила ошибку'
+  123  git switch Header
+  124  git switch Header/GS-2
+  125  git switch main
+  126  git push
+  127  git pull origin main
+  128  git switch Header/GS-2
+  129  npm run dev
+  130  npm run dev
+  131  npm i lucide-react
+  132  npm run dev
+  133  npm run dev
+  134  add. 
+  135  git status
+  136  add .
+  137  git commit 'сделала хедер и переключение темы'
+  138  gir switch main
+  139  git switch main
+  140  git status
+  141  git add .
+  142  git commit -m 'сделала хедер и также темную тему'
+  143  git switch main
+  144  git swich Header/GS-2
+  145  git switch Header/GS-2
+  146  git push Header/GS-2
+  147  git push
+  148  git push --set-upstream origin Header/GS-2
+  149  git switch main
+  150  git switch Header/GS-2
+  151  npm run dev
+  152  git add .
+  153  git commit -m 'убрала с main.jsx стили бо был конфликт'
+  154  git push
+  155  git switch main
+  156  git pull origin main
+  157  git switch Header/GS-2
+  158  git pull origin main
+  159  npm run dev
+  160  git add .
+  161  git commit -m 'решила конфликты'
+  162  git push
+  163  git switch main
+  164  code .
+  165  code .
+  166  cd frontend
+  167  git switch main
+  168  git status
+  169  git branch
+  170  git switch DiscountedSale/ADOGP-8
+  171  git commit -m 'fals'
+  172  git add .
+  173  git pull origin main
+  174  git add .
+  175  git commit -m 'fals'
+  176  git DiscountedSale/ADOGP-8
+  177  git branch
+  178  git switch DiscountedSale/ADOGP-8
+  179  code .
+  180  cd frontend
+  181  npm run dev
+  182  npm run dev
+  183  npm run dev
+  184  npm run dev
+  185  git add .
+  186  git commit -m 'реализовала компонент скидок'
+  187  git push
+  188  git push --set-upstream origin Sale/GS-6
+  189  git switch main
+  190  git pull origin main
+  191  npm run dev
+  192  code .
+  193  git switch -c 'Sale/GS-6'
+  194  npm run dev
+  195  cd backend
+  196  npm run dev
+  197  npm run dev
+  198  npm install
+  199  npm run dev
+  200  npm install express
+  201  npm start
+  202  npx nodemon index.js
+  203  rd /s /q node_modules
+  204  del package-lock.json
+  205  npm cache clean --force
+  206  npm install
+  207  npm list express
+  208  npm install express
+  209  npm run dev
+  210  npm install
+  211  npm list express
+  212  node index.js
+  213  npm install -g nodemon
+  214  nodemon index.js
+  215  cd ../backend
+  216  npm start
+  217  npm i
+  218  npm run dev
+  219  git clone git@github.com:Olhaj/Genius-space.git
+  220  git clone https://github.com/Olhaj/Genius-space.git
+  221  git switch main
+  222  git clone git@github.com:Olhaj/Genius-space.git
+  223  git clone https://github.com/Olhaj/Genius-space.git
+  224  git add .
+  225  git config user.name
+  226  git config user.email
+  227  cd
+  228  git status
+  229  git pull origin main
+  230  sass scss/main.scss css/main.min.css --watch
+  231  npm install -g sass
+  232  npm install -g sass
+  233  sass scss/main.scss css/main.min.css --watch
+  234  npm install -g sass
+  235  sass scss/main.scss css/main.min.css --watch
+  236  .code
+  237  code
+  238  git@github.com:Alishahryar1/free-claude-code.git~
+  239  git@github.com:Alishahryar1/free-claude-code.git
+  240  git pull github.com:Alishahryar1/free-claude-code.git
+  241  git clone https://github.com/Alishahryar1/free-claude-code.git
+  242  pwd
+  243  git config --global user.name
+  244  git config --global user.name Olha_Chirkova
+  245  git config --global user.email chirkovaolij@gmail.com
+  246  git config --global -l
+  247  ls -ls
+  248  mkdir 100726-wdm
+  249  cd 100726-wdm
+  250  ls -al
+  251  git init
+  252  ls -al
+  253  nano Song.txt
+  254  ls -al
+  255  git status
+  256  git add Song.txt
+  257  git status
+  258  git commit -m "Inital commit"
+  259  ls -al
+  260  ls -al .git/
+  261  git remote add origin git@github.com:Olhaj/100726-wdm.git
+  262  git remote -v
+  263  git branch -M main
+  264  git push -u origin main
+  265  gid log
+  266  git log
+  267  git remote add origin git@github.com:Olhaj/newTestRepository.git
+  268  cd
+  269  cd /c/ICH/Lesson/Git
+  270  git remote add origin git@github.com:Olhaj/newTestRepository.git
+  271  cd /c/ICH/Lesson/Git/100726-wdm
+  272  ls -al
+  273  cd ..
+  274  ls -al
+  275  git clone git@github.com:Olhaj/newTestRepository.git
+  276  ls -al
+  277  cd newTestRepository/
+  278  cd .
+  279  cd ..
+  280  rm -rf newTestRepository/
+  281  ls -al
+  282  git init
+  283  echo "# test" >> README.md
+  284  git status
+  285  git add README.md
+  286  git commit -m "first commit"
+  287  git branch -M main
+  288  git remote add origin git@github.com:Olij/# test.git
+  289  git status
+  290  cd 100726-wdm
+  291  git status
+  292  cd ..
+  293  mkdir "git_intro"
+  294  ls -al
+  295  cd git_intro
+  296  git syayus
+  297  git init
+  298  git status
+  299  git add images.jpeg
+  300  git commit -m "Added photo"
+  301  git branch -M main
+  302  git remote add origin git@github.com:Olhaj/git_intro.git
+  303  git push -u origin main
+  304  git status
+  305  ls -al
+  306  git remote add origin git@github.com:Olhaj/git_intro.git
+  307  git push -u origin main
+  308  git status
+  309  git pull git@github.com:Olhaj/git_intro.git
+  310  git push -u origin main
+  311  git log
+  312  git push
+  313  git push -u origin main
+  314  git push --help
+  315  git pull --rebase origin main
+  316  git push -u origin main
+  317  git status
+  318  git pull
+  319  git log
+  320  nano Song.txt
+  321  git status
+  322  git commit -m "Add word Hello in Song.txt"
+  323  git log
+  324  git status
+  325  git add.
+  326  git add .
+  327  git commit -m "Add word in Song.txt"
+  328  git log
+  329  git branch TestBranch
+  330  git branch -v
+  331  git checkout TestBranch
+  332  git branch -v
+  333  git checkout -b NewBranch
+  334  git branch
+  335  git log
+  336  git switch -b "New"
+  337  pwd
+  338  ls -al
+  339  git push
+  340  git push --set-upstream origin NewBranch
+  341  git log --all
+  342  mkdir -p file.text
+  343  git status
+  344  git log
+  345  git branch main
+  346  nano .gitignore
+  347  cat .gitignore
+  348  git checkout .gitignore
+  349  git syayus
+  350  git status
+  351  git add .gitignore
+  352  git status
+  353  git checkout main
+  354  git init
+  355  ls -al
+  356  git log
+  357  git clone
+  358  git status
+  359  git add .
+  360  git commit -m "Added files index.html, scripts, styles, assest."
+  361  git remote add origin git@github.com:Olhaj/To_Do_List.git
+  362  git remote -v
+  363  git push -u origin main
+  364  git branch -M main
+  365  git push -u origin main
+  366  git status
+  367  git init
+  368  dit branch -M main
+  369  git syayus
+  370  git status
+  371  git branch -M main
+  372  git status
+  373  git add .
+  374  git commit -m "Added files index.html, scripts, styles."
+  375  git remote add origin https://github.com/Olhaj/To_Do_List.git
+  376  git push -u origin main
+  377  git init
+  378  git status
+  379  git branch -M main
+  380  git add .
+  381  git commit -m "Added files index.html, scripts, styles."
+  382  git clone
+  383  git remote add origin git@github.com:Olhaj/To_Do_List.git
+  384  git push -u origin main
+  385  git push --help
+  386  git status
+  387  git push
+  388  git push --set-upstream origin main
+  389  git init -b main
+  390  git switch -c gitignore
+  391  git branch
+  392  curl -L https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore -o .gitignore
+  393  cat .gitignore
+  394  git config --global --list
+  395  git add .gitignore
+  396  git status
+  397  git commit -m "Add gitignore"
+  398  git remote add origin https://github.com/Olhaj/git-branch.git
+  399  git remote -v
+  400  git branch
+  401  git log --oneline
+  402  git status
+  403  git push -u origin main
+  404  git switch main
+  405  git switch -c
+  406  git push -u origin gitignore
+  407  git switch
+  408  git switch main
+  409  git switch -c main
+  410  git branch
+  411  git clone https://github.com/Olhaj/git-feature.git
+  412  git status
+  413  cat > .gitignore <<'EOF'
+  414  *.log
+  415  .env
+  416  __pycache__/
+  417  EOF
+  418  cat .gitignore
+  419  git add .gitignore
+  420  git commit -m "Add gitignore"
+  421  git push origin main
+  422  git init -b main
+  423  git status
+  424  git switch -c feature
+  425  $ cat > .gitignore <<'EOF'
+  426  > *.log
+  427  > .env
+  428  > __pycache__/
+  429  > EOF
+  430  cat > .gitignore <<'EOF'
+  431  *.log
+  432  .env
+  433  __pycache__/
+  434  EOF
+  435  cat .gitignore
+  436  cat > .README.md
+  437  git status
+  438  git add .gitignore
+  439  git add ".gitignore"
+  440  git add ".README.md"
+  441  git status
+  442  git commit -m "Add files gitignore and readme"
+  443  git status
+  444  cat >> README.md <<'EOF'
+  445  ##
+  446  cat >> README.md <<'EOF'
+  447  ## Feature
+  448  This section was added in the feature branch
+  449  EOF
+  450  cat >> .gitignore <<'EOF'
+  451  *.tmp
+  452  .DS_Store
+  453  EOF
+  454  git diff
+  455  git add README.md .gitignore
+  456  git add .
+  457  git status
+  458  git restore --staged "git-feature"
+  459  git status
+  460  git commit -m "Add feature changes"
+  461  git push -u origin feature
+  462  git status
+  463  git add .
+  464  git add.
+  465  git --help
+  466  git  history
+  467  rm git-feature/
+  468  git status
+  469  ls -ld git-feature
+  470  file git-feature
+  471  git add.
+  472  git status
+  473  git commit -m "Add git-feature: directory"
+  474  git push origin feature
+  475  ls -la
+  476  cd git-feature
+  477  git remote -v
+  478  git branch
+  479  git switch feature
+  480  git switch feature
+  481  ls -la
+  482  cd .git-feature
+  483  cd git-feature
+  484  cd /c/ICH/Homework/Linux&Git/git-feature/git-feature
+  485  ls -ld git-feature
+  486  git init -b main
+  487  git clone https://github.com/Olhaj/git-feature.git
+  488  git status
+  489  git clone https://github.com/Olhaj/git-feature.git
+  490  git status
+  491  git clone https://github.com/Olhaj/git-feature.git
+  492  cd git-feature
+  493  git status
+  494  cat > .gitignore <<'EOF'
+*.log
+.env
+__pycache__/
+EOF
+
+  495  cat .gitignore
+  496  git add .gitignore
+  497  git add.
+  498  git status
+  499  git commit -m "Add gitignore"
+  500  git push origin main
+  501  git switch -c feature
+  502  git braunch
+  503  git branch
+  504  cat >> README.md <<'EOF'
+## Feature
+This section was added in the feature branch
+EOF
+
+  505  cat README.md
+  506  cat >> .gitignore <<'EOF'
+*.tmp
+.DS_Store
+EOF
+
+  507  git diff
+  508  git status
+  509  git add.
+  510  git status
+  511  git add .
+  512  git status
+  513  git commit -m "Add feature changes"
+  514  git push -u origin feature 
+  515  git commit --amend -m "Add feature changes ammend"
+  516  git push --force-with-lease jrigin feature
+  517  git push --force-with-lease origin feature
+  518  git switch main
+  519  git pull origin main
+  520  git merge feature
+  521  git push origin main
+  522  git status
+  523  history > history.txt
